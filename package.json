@@ -1,7 +1,8 @@
 {
   "name": "truemiller-stack",
+  "description": "A Next.js template with TypeScript, ESLint, Prettier, Tailwind CSS, Husky, and a bunch of other linting tools.",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
