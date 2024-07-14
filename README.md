@@ -32,3 +32,25 @@ Used for my own projects, but feel free to fork and use it yourself.
   "typescript": "^5"
 }
 ```
+
+## Extend with...
+**shadcn-ui**
+```bash
+npx shadcn-ui@latest init
+```
+
+**Prisma**
+```bash
+yarn add -D prisma@latest 
+yarn add @prisma/client 
+```
+
+**Auth.js w/ Prisma**
+```bash
+yarn add next-auth@beta #currently in beta.. https://authjs.dev/getting-started/installation?framework=next.js
+yarn add @auth/prisma-adapter
+```
+
+
+
+
