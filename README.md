@@ -10,7 +10,8 @@ Used for my own projects, but feel free to fork and use it yourself.
   "next": "14.2.5",
   "react": "^18",
   "react-dom": "^18",
-  "schema-dts": "^1.1.2"
+  "schema-dts": "^1.1.2",
+  "tailwindcss": "^3.4.1"
 },
 "devDependencies": {
   "@types/node": "^20",
@@ -28,7 +29,6 @@ Used for my own projects, but feel free to fork and use it yourself.
   "husky": "^9.0.11",
   "postcss": "^8",
   "prettier": "^3.3.3",
-  "tailwindcss": "^3.4.1",
   "typescript": "^5"
 }
 ```
